@@ -1,0 +1,6 @@
+[submodule "GitSubmodules-ChildA"]
+	path = GitSubmodules-ChildA
+	url = https://github.com/mizatch/GitSubmodules-ChildA.git
+[submodule "GitSubmodules-ChildB"]
+	path = GitSubmodules-ChildB
+	url = https://github.com/mizatch/GitSubmodules-ChildB.git
